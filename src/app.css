@@ -1,5 +1,5 @@
-    @import 'tailwindcss'; 
-    
-    @theme {
-  --default-font-family: "Inter", sans-serif;
+@import 'tailwindcss'; 
+
+@plugin "daisyui" {
+  themes: cyberpunk --default, dark --prefersdark, cupcake;
 }
