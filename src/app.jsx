@@ -4,11 +4,14 @@ import { Header } from "./components/Header";
 
 export function App() {
   return (
-    <PageWrapper>
-      <Container>
-        <Header />
-        <main>!!!</main>
-      </Container>
-    </PageWrapper>
+    // <PageWrapper>
+    //   <Container>
+    //    
+    //     <main>!!!</main>
+    //   </Container>
+    // </PageWrapper>
+    <div>
+       <Header />
+    </div>
   );
 }
