@@ -6,7 +6,7 @@ export function Header() {
               <img
                 src="/images/flower-vector_1.svg"
                 alt="Flower"
-                className="h-16 transition group-hover:scale-105 group-hover:-rotate-6 md:h-20 lg:h-24"
+                className="h-16 transition group-hover:scale-115 group-hover:-rotate-16 md:h-20 lg:h-24"
               />
               <p className="text-lg font-semibold">Planetpix</p>
             </div>
